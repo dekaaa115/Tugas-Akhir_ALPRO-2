@@ -1,5 +1,6 @@
-# Repository Tugas Akhir 
+# Repository Tugas Besar
 # "Algoritma dan Pemograman 2"
+# "Aplikasi Pariwisata"
 
 ### Nama Anggota Kelompok :
 - Sholahuddin Zanky                      	(2311102201)
