@@ -3,10 +3,10 @@
 # "Aplikasi Pariwisata"
 
 ### Nama Anggota Kelompok :
-- Sholahuddin Zanky                      	(2311102201)
-- Muhammad Deka Maulana                 	(2311102148)
 - Dadya Vio Hendraksa                  	  (2311102123)
-- Qonita Rahayu Atmi                    	(2311102128) 
+- Muhammad Deka Maulana                 	(2311102148)
+- Qonita Rahayu Atmi                    	(2311102128)
+- Sholahuddin Zanky                      	(2311102201)
   
 Kelas       : S1IF-11-01</br>
 
